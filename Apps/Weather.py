@@ -4,7 +4,7 @@ import requests
 
 #The app is still not functioning. I will look at it some other time. Feel free to assist
 # Constants
-API_KEY ="https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&appid={API key}"
+API_KEY ="e96d1792ed98606cfeab55ba201284ea"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 def fetch_weather():
